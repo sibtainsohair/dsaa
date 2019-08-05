@@ -21,7 +21,6 @@ jdcal
 joblib==0.13.0
 kiwisolver==1.0.1
 lxml==4.3.3
-lz4==1.1.0+dfsg
 matplotlib==2.2.3
 mock==2.0.0
 more-itertools==4.2.0

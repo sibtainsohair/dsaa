@@ -18,7 +18,7 @@ html5lib==1.0.1
 ipython==5.8.0
 ipython-genutils==0.2.0
 jdcal
-joblib==0.13.0
+joblib==1.2.0
 kiwisolver==1.0.1
 lxml==4.3.3
 matplotlib==2.2.3
